@@ -7,3 +7,9 @@
 [submodule "weld"]
 	path = weld
 	url = https://github.com/tmpvar/weld.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "clearseam"]
+	path = clearseam
+	url = https://github.com/mildred/clearseam.git
